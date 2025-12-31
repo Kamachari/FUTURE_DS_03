@@ -9,7 +9,7 @@
 This project involved analyzing student feedback collected from college events (Tech Fests, Workshops, Cultural Activities). The goal was to leverage **Natural Language Processing (NLP)** and data visualization to understand student satisfaction levels, identify key strengths and weaknesses in faculty performance, and provide actionable recommendations for future event improvements.
 
 ## 📂 Project Documentation & Code
-*   **[📄 Download Full Project Report (PDF)](./Student_Feedback_Analysis.pdf)** - Detailed insights and visual analysis.
+*   **[📄 Download Full Project Report (PDF)](./Student-Feedback-AnalysisReport.pdf)** - Detailed insights and visual analysis.
 *   **[🐍 View Python Source Code (.ipynb)](./Student_Feedback_Analysis.ipynb)** - Interactive Jupyter Notebook.
   
 ## ❓ Task Objectives & Executive Questions

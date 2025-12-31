@@ -61,6 +61,26 @@ The analysis aimed to answer:
 
 ---
 
+## 📊 Key Findings Summary
+
+### 📋 Sentiment Breakdown
+| Sentiment Category | Student Count | Percentage |
+| :--- | :---: | :---: |
+| **Positive** 🟢 | 863 | 86.2% |
+| **Negative** 🔴 | 115 | 11.5% |
+| **Neutral** 🟡 | 23 | 2.3% |
+
+### 🏆 Top & Bottom Performing Metrics
+| Rank | Metric / Question | Average Score (1-10) |
+| :--- | :--- | :---: |
+| 1️⃣ | **Subject Knowledge** | **High (>9.0)** |
+| 2️⃣ | Clarity of Explanation | High |
+| ... | ... | ... |
+| 9️⃣ | Doubt Solving | Low |
+| 🔟 | **Assignment Difficulty** | **Low (<5.0)** |
+
+---
+
 ## 💡 Strategic Recommendations
 
 *   **Enhance Student Support:** Address the low scores in **Doubt Solving** and **Assignment Difficulty** by implementing dedicated Q&A sessions or peer-support programs.

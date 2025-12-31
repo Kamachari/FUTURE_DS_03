@@ -34,7 +34,9 @@ The analysis aimed to answer:
 **Insight:** The sentiment analysis of student comments indicates a generally positive reception, with **86.2% of feedback being Positive**. However, the **11.5% Negative sentiment** highlights specific areas requiring immediate attention.
 
 **Visual:**
-![Sentiment Distribution](sentiment_distribution.png)
+<p align="center">
+  <img src="sentiment_distribution.png" width="600">
+</p>
 *(Pie chart showing Positive, Neutral, Negative sentiment breakdown)*
 
 ### 2. Faculty Performance Breakdown
@@ -42,7 +44,9 @@ The analysis aimed to answer:
 **Insight:** Faculty performance is strong in **Subject Knowledge** (highest average rating). However, areas related to **Doubt Solving** and **Assignment Difficulty** received the lowest scores, indicating student challenges in these aspects.
 
 **Visual:**
-![Faculty Performance Bar Chart](faculty_performance.png)
+<p align="center">
+  <img src="faculty_performance.png">
+</p>
 *(Bar chart showing average ratings for different faculty aspects)*
 
 ### 3. Sentiment vs. Rating Correlation
@@ -50,7 +54,9 @@ The analysis aimed to answer:
 **Insight:** A strong positive correlation was observed between high numerical ratings and positive sentiment scores. Conversely, low ratings frequently corresponded with negative sentiment in the comments. This validates the feedback data's consistency.
 
 **Visual:**
-![Correlation Scatter Plot](correlation_plot.png)
+<p align="center">
+  <img src="correlation_plot.png">
+</p>
 *(Scatter plot of Average Rating vs. Sentiment Score)*
 
 ---

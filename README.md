@@ -74,4 +74,4 @@ The analysis aimed to answer:
 4.  Run all cells sequentially to generate the analysis and visualizations.
 
 ---
-*Created by [Your Name] | Data Analytics Internship Task 3*
+*Created by B Kamachari | Data Analytics Internship Task 3*
